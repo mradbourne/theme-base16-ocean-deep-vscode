@@ -1,9 +1,9 @@
 {
-	"name": "theme-base16-ocean-dark",
-	"displayName": "Base16 Ocean Dark",
+	"name": "theme-base16-ocean-deep",
+	"displayName": "Base16 Ocean Deep",
 	"description": "",
 	"version": "1.0.0",
-	"publisher": "viatsko",
+	"publisher": "mradbourne",
 	"engines": {
 		"vscode": "^0.10.6"
 	},
@@ -13,9 +13,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "Base16 Ocean Dark",
+				"label": "Base16 Ocean Deep",
 				"uiTheme": "vs-dark",
-				"path": "./themes/base16-ocean.dark.tmTheme"
+				"path": "./themes/base16-ocean.deep.tmTheme"
 			}
 		]
 	}
